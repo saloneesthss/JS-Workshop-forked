@@ -1,4 +1,4 @@
-// Implicit Conversion or type coersion
+// Implicit Conversion or type conversion
 
 console.log("1" + 9);
 //19

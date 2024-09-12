@@ -4,6 +4,12 @@ function cube(a) {
   return a * a * a; // Returns a cubed
 }
 
+function square(s) {
+  return s*s;
+}
+const bs=square(4);
+console.log(bs);
+
 const num = cube(9); // Calls the function with 9 and stores the result in num
 
 // Arrow Function

@@ -1,11 +1,14 @@
 const a = [];
 console.log(a);
-console.log(a.push("samrat", 1, 25, true));
+console.log(a.push("salonee", 1, 25, true));
 
 const array = new Array();
 console.log(array);
 
 console.log(a);
 
-a.push("Dipesh");
+a.push("anuradha");
+console.log(a);
+
+a.pop();
 console.log(a);
